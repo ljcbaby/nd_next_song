@@ -1,0 +1,9 @@
+nd_server:
+  host: "http://localhost:8080"
+  username: "user"
+  password: "pass"
+
+parameters:
+  add_time: 0.55
+  last_play_time: 0.45
+  play_between_day: 3
